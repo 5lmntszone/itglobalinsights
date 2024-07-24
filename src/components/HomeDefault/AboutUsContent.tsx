@@ -10,30 +10,20 @@ const AboutUsContent: React.FC = () => {
           <div className="row h-100 align-items-center">
             <div className="col-lg-6">
               <div className="about-content">
-                <span>Join The Event</span>
+                <span>Igniting Innovation</span>
                 <h2>
-                  We Create and <b>Turn</b> Into Reality
+                  Welcome to the AI & Blockchain <b>Summit</b> 2024
                 </h2>
                 <p>
-                  It has survived not only five centuries, but also the leap
-                  into electronic typesetting, remaining essentially unchanged.
+                Dive into the future with us in Geneva from 23-25 November 2024! Experience groundbreaking innovations in AI and blockchain. 
+                Network with industry pioneers, engage in dynamic sessions, and immerse yourself in cutting-edge workshops.
                 </p>
                 <p>
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry. Lorem Ipsum has been the industry
-                  standard dummy text ever since the 1500s, when an unknown
-                  printer took a galley of type and scrambled it to make a type
-                  specimen book.
+                We bring together the brightest minds in AI and blockchain to spark ideas that change the world. 
+                With 70+ speakers and 100+ sponsors, this is where ideas become reality.
                 </p>
-
-                <div className="signature">
-                  <Image
-                    src="/images/signature.png"
-                    alt="signature"
-                    width={142}
-                    height={68}
-                  />
-                </div>
+              
+           
 
                 <Link href="/about-us" className="btn btn-primary">
                   Read More

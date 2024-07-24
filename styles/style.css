@@ -134,6 +134,7 @@ label {
   top: 0;
   width: 51%;
   background: #FF2D55;
+  /*background: #6f00ff; */
   height: 100%;
   z-index: -1;
   transition: 0.5s;

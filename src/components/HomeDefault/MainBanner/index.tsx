@@ -27,10 +27,10 @@ const MainBanner: React.FC = () => {
             <div className="container">
               <div className="main-banner-content">
                 <p>
-                  Are you <span>ready</span> to attend?
+                  Ready to <span>Dive</span> into the Future of AI & Blockchain?
                 </p>
                 <h1>
-                  World Advanced <span>Biggest</span> <br /> Conference <b>2</b>
+                  World AI and <span>Blockchain</span> <br /> Summit <b>2</b>
                   <b>0</b>
                   <b>2</b>
                   <b>4</b>
@@ -38,11 +38,11 @@ const MainBanner: React.FC = () => {
 
                 <ul>
                   <li>
-                    <i className="icofont-compass"></i> Yellow Street, United
-                    State
+                    <i className="icofont-compass"></i> Geneva, Switzerland
+                    
                   </li>
                   <li>
-                    <i className="icofont-calendar"></i> 23-27 Jan, 2024
+                    <i className="icofont-calendar"></i> 23-25 November, 2024
                   </li>
                 </ul>
 
